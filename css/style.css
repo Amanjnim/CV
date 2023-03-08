@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-size: 1rem;
+    font-family: merriwheather;
+}
+
+.top_container{
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    /* border-style: double;
+    border-width: black;
+    border-width: 20px; */
+    position: relative;
+    margin: 10px;
+    /* margin-bottom: 100px; */
+    
+}
+
+.cloud_1{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+
+.cloud_2{
+    position:absolute;
+    bottom: 350px;
+    left: 400px;
+}
+.mountain{
+    margin-top: 40px;
+}
+
+h1{ 
+    font-family: Sacramento;
+    font-size: 3rem;
+    /* width: 300px; */
+    margin: auto;
+    color: #66BFBF;
+}
+.sub-heading{
+    color: #66BFBF;
+    font-family: montserrat;
+    font-weight: normal;
+}
+h2{
+    color:  #3c9e9e;
+    font-weight: bolder;
+}
+h3{
+    color: #11999E;
+    font-family: montserrat;
+    font-weight: bold;
+}
+p{  
+    color: #40514E;
+    line-height: 1cm;
+}
+
+.middle_container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.skills{
+    margin: 100px auto 100px auto;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    padding: 10px;
+    text-align: left;
+}
+
+.coding_man{
+    width: 200px;
+    background-color: aqua;
+    border-radius: 100px;
+    float: left;
+    margin: 20px;
+}
+.manga_book{
+    width: 200px;
+    background-color: rgb(56, 19, 124);
+    border-radius: 100px;
+    float: right;
+    margin-left: 20px;
+}
+
+hr{
+    width: 7%;
+    border-style: dotted none none none;
+    border-width: 6px;
+    border-color: #7c8b8b;
+}
+.profile{
+    margin-bottom: 100px;
+}
+.contact-me{
+    margin: 100px auto 100px auto;
+}
+.btn{
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+    border-radius: 30%;
+background-color: #11999E;
+}
+.btn:hover{
+    color: #11cdd4;
+    background-color: #05221e;
+}
+/* .above-btn{
+    margin-bottom: 100px;
+} */
+
+
+.bottom_container{
+    padding-top: 20px;
+    background-color: #66BFBF;
+    font-size: large;
+    /* height: 100px; */
+}
+a{
+    color: #11999E;
+    margin: 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: #000;
+}
+
+.copy-right{
+    color: #EAF6F6;
+    font-size: medium;
+}
+
+span{
+    text-decoration: underline;
+}
